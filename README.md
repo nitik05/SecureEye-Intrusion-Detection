@@ -49,7 +49,7 @@ SecureEye_v2/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SecureEye-IDS.git
+git clone https://github.com/nitik05/SecureEye-IDS.git
 cd SecureEye-IDS
 ```
 
